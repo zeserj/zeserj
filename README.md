@@ -13,9 +13,7 @@
 
 ### Building Full Stack applications with Django, React, Flask, Python and Mobile applications with Flutter.
 
-Connect with me
-
-[![Linkedin Badge](https://img.shields.io/badge/-popasergiu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/popasergiu/)
+Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-popasergiu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/popasergiu/)
 
 ---
 ### 🛠 Languages and Tools :
