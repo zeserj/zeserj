@@ -1,22 +1,27 @@
+<!--
 <div align="center">
   <a href="https://github.com/zeserj">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=zeserj&show_icons=true&count_private=true&include_all_commits=true" alt="Sergiu Popa's GitHub Stats" />
   </a>
   <br/>
-  <!--
+
   <a href="https://github.com/zeserj">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeserj" alt="Sergiu Popa's Most Used Languages Stats" />
   </a>
-  -->
-
-<br/>
+  <br/>
+</div>
+-->
 
 ### Building Full Stack applications with Django, React, Flask, Python and Mobile applications with Flutter.
-
-Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-popasergiu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/popasergiu/)
+<p align="center">
+Connect with me
+<a href="https://www.linkedin.com/in/popasergiu/"><img src="https://img.shields.io/badge/-popasergiu-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge""></a>
+</p>
 
 ---
+
 ### 🛠 Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
@@ -32,10 +37,9 @@ Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-popasergiu-blu
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+
 ---
  
 <p align="center">
 <a href="https://www.buymeacoffee.com/zeserj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
-
-</div>
