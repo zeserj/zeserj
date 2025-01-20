@@ -12,7 +12,7 @@
 </div>
 -->
 
-### Building Full Stack applications with Django, React, Flask, Python and Mobile applications with Flutter.
+### Building Full Stack applications with Python (Django, FastAPI, Flask) and React and Mobile applications with Flutter.
 <p align="center">
 Connect with me
 <a href="https://www.linkedin.com/in/popasergiu/"><img src="https://img.shields.io/badge/-popasergiu-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge""></a>
@@ -24,6 +24,7 @@ Connect with me
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
